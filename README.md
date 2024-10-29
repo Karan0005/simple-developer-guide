@@ -23,30 +23,30 @@ Welcome to the **Simple Developer Guide**, the ultimate resource for developers 
 7. **Frontend Development Essentials** – Learn how to build visually stunning and high-performance applications using Angular, NgRx, and TypeScript, with tips on structure and design.
 8. **Backend Development Essentials** – Get hands-on with backend engineering using Node.js and NestJS, from setting up APIs to mastering data flow and storage.
 
-🧪 **Software Testing Essentials**
+### 🧪 Software Testing Essentials
 
-- **Frontend Testing** – Explore software testing using Jest, focusing on unit tests, integration tests, and best practices for maintaining high-quality code.
-- **Backend Testing** – Understand the importance of testing strategies in backend development, including API testing and user testing, to ensure robust applications.
+9. **Frontend Testing** – Explore software testing using Jest, focusing on unit tests, integration tests, and best practices for maintaining high-quality code.
+10. **Backend Testing** – Understand the importance of testing strategies in backend development, including API testing and user testing, to ensure robust applications.
 
 ### 🧠 Advanced Layers for Technical Mastery
 
-9. **Database Design & Architecture** – Everything you need to know about relational, non-relational, and cache-based databases, plus in-depth examples with MongoDB, SQL Server, and Redis.
-10. **Infrastructure 101** – A primer on cloud computing, networking, and DevOps to help you set up scalable and robust systems.
-11. **Security Best Practices** – Learn how to build secure applications with insights into encryption, data protection, and authentication.
-12. **Scalability & Performance Optimization** – Uncover the secrets to building applications that handle millions of users, from load balancing to caching techniques.
+11. **Database Design & Architecture** – Everything you need to know about relational, non-relational, and cache-based databases, plus in-depth examples with MongoDB, SQL Server, and Redis.
+12. **Infrastructure 101** – A primer on cloud computing, networking, and DevOps to help you set up scalable and robust systems.
+13. **Security Best Practices** – Learn how to build secure applications with insights into encryption, data protection, and authentication.
+14. **Scalability & Performance Optimization** – Uncover the secrets to building applications that handle millions of users, from load balancing to caching techniques.
 
 ### 🎯 Project Planning & Tools to Power Your Workflow
 
-13. **Project Requirement Planning** – Learn to turn vague project ideas into actionable steps, setting you up to tackle any development task with clarity.
-14. **Developer Tools & Productivity Hacks** – A toolkit of must-have software for code management, debugging, collaboration, and staying organized.
+15. **Project Requirement Planning** – Learn to turn vague project ideas into actionable steps, setting you up to tackle any development task with clarity.
+16. **Developer Tools & Productivity Hacks** – A toolkit of must-have software for code management, debugging, collaboration, and staying organized.
 
 ### 📈 Be Interview Ready: From Resumes to Real Questions
 
-15. **Crafting a Standout Resume** – Build a resume that gets noticed by hiring managers and ATS systems, with tailored tips for every experience level.
-16. **Frontend Interview Questions** – Top questions on Angular, NgRx, and UI/UX fundamentals, with sample solutions to help you stand out in frontend interviews.
-17. **Backend Interview Questions** – Practice on critical Node.js, NestJS, and database questions, designed to help you excel in backend interviews.
-18. **System Design Questions** – Real-world system design scenarios to ace high-level discussions, including scalability, performance, and architecture insights.
-19. **Security & Infrastructure Questions** – Key questions covering software security, scalability, and infrastructure, readying you for technical challenges in system design.
+17. **Crafting a Standout Resume** – Build a resume that gets noticed by hiring managers and ATS systems, with tailored tips for every experience level.
+18. **Frontend Interview Questions** – Top questions on Angular, NgRx, and UI/UX fundamentals, with sample solutions to help you stand out in frontend interviews.
+19. **Backend Interview Questions** – Practice on critical Node.js, NestJS, and database questions, designed to help you excel in backend interviews.
+20. **System Design Questions** – Real-world system design scenarios to ace high-level discussions, including scalability, performance, and architecture insights.
+21. **Security & Infrastructure Questions** – Key questions covering software security, scalability, and infrastructure, readying you for technical challenges in system design.
 
 ---
 
