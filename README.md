@@ -23,6 +23,11 @@ Welcome to the **Simple Developer Guide**, the ultimate resource for developers 
 7. **Frontend Development Essentials** – Learn how to build visually stunning and high-performance applications using Angular, NgRx, and TypeScript, with tips on structure and design.
 8. **Backend Development Essentials** – Get hands-on with backend engineering using Node.js and NestJS, from setting up APIs to mastering data flow and storage.
 
+🧪 **Software Testing Essentials**
+
+- **Frontend Testing** – Explore software testing using Jest, focusing on unit tests, integration tests, and best practices for maintaining high-quality code.
+- **Backend Testing** – Understand the importance of testing strategies in backend development, including API testing and user testing, to ensure robust applications.
+
 ### 🧠 Advanced Layers for Technical Mastery
 
 9. **Database Design & Architecture** – Everything you need to know about relational, non-relational, and cache-based databases, plus in-depth examples with MongoDB, SQL Server, and Redis.
