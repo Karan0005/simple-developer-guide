@@ -17,7 +17,7 @@ Welcome to the **Simple Developer Guide**, the ultimate resource for developers 
 4. **Understanding Development Ecosystems** – Get insights into diverse fields like Web, Mobile, and Desktop development, each offering unique challenges and career opportunities.
 5. **Know the Roles in Software Engineering** – From Frontend to DevOps to QA, explore the variety of roles in tech, with tips on what each one entails and how to get started.
 
-### 💻 Core Developer Skills—From Frontend to Backend
+### 💻 Core Developer Skills: From Frontend to Backend
 
 6. **Master Data Structures & Algorithms** – Tackle the most important DSA concepts with practice questions that scale from beginner-friendly to advanced.
 7. **Frontend Development Essentials** – Learn how to build visually stunning and high-performance applications using Angular, NgRx, and TypeScript, with tips on structure and design.
@@ -35,7 +35,7 @@ Welcome to the **Simple Developer Guide**, the ultimate resource for developers 
 13. **Project Requirement Planning** – Learn to turn vague project ideas into actionable steps, setting you up to tackle any development task with clarity.
 14. **Developer Tools & Productivity Hacks** – A toolkit of must-have software for code management, debugging, collaboration, and staying organized.
 
-### 📈 Be Interview Ready—From Resumes to Real Questions
+### 📈 Be Interview Ready: From Resumes to Real Questions
 
 15. **Crafting a Standout Resume** – Build a resume that gets noticed by hiring managers and ATS systems, with tailored tips for every experience level.
 16. **Frontend Interview Questions** – Top questions on Angular, NgRx, and UI/UX fundamentals, with sample solutions to help you stand out in frontend interviews.
