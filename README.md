@@ -10,7 +10,7 @@ Welcome to the **Simple Developer Guide**, the ultimate resource for developers 
 
 1. **Aptitude Prep** – Sharpen your logic and problem-solving with curated resources and strategies.
 2. **Boost Communication Skills** – Essential tips to communicate effectively in technical settings, whether it’s in interviews, team meetings, or writing clear documentation.
-3. **The Internet & Software Fundamentals** – Break down the basics of how the internet and software work—crucial for understanding any tech role.
+3. **The Internet & Software Fundamentals** – Break down the basics of how the internet and software work, which is crucial for understanding any tech role.
 
 ### 🌐 Explore the Development World
 
